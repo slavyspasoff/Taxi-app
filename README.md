@@ -1,6 +1,6 @@
 # Taxi App
 
-![exmple image](src/assets/example-video.gif)
+![exmple image](assets/example-video.gif)
 
 ## What is it?
 
